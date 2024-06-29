@@ -8,7 +8,6 @@ Welcome to my CSS project from The Odin Project curriculum! This repository show
 - **Color Schemes:** Applied consistent color themes for visual appeal.
 - **Typography:** Implemented font styles and sizes for readability.
 - **Box Model:** Managed margins, padding, and borders effectively.
-- **Responsive Design:** Ensured mobile-friendly layouts with media queries.
 
 ## 📂 Project Structure
 
