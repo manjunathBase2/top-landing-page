@@ -191,7 +191,7 @@ a{
 }
 
 .blue div{
-    color: hsl(220, 58%, 84%);
+    color: hsl(225, 18%, 91%);
     font-size: 16px;
     font-weight: 100;
     
@@ -207,4 +207,11 @@ a{
 }
 
 
-
+.footer{
+    background-color: #1f2937;
+    color: hsl(218, 27%, 94%);
+    padding: 20px 40px;
+    text-align: center;
+    font-size: medium;
+    font-weight: lighter;
+}
